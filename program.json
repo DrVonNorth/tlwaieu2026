@@ -1,0 +1,612 @@
+[
+  {
+    "id": "mon-0-event",
+    "day": "mon",
+    "time": "08:00–08:45",
+    "title": "Registrering och kaffe",
+    "place": "Small Atrium",
+    "why": "",
+    "rank": 0,
+    "group": "mon-0"
+  },
+  {
+    "id": "mon-1-event",
+    "day": "mon",
+    "time": "08:45–09:00",
+    "title": "Welcome and Orientation",
+    "place": "Chapel",
+    "why": "",
+    "rank": 0,
+    "group": "mon-1"
+  },
+  {
+    "id": "mon-2-event",
+    "day": "mon",
+    "time": "09:00–10:00",
+    "title": "Opening Panel: What Are We Educating For in Times of AI?",
+    "place": "Chapel",
+    "why": "",
+    "rank": 0,
+    "group": "mon-2"
+  },
+  {
+    "id": "mon-3-0",
+    "day": "mon",
+    "time": "10:10–10:40",
+    "title": "Teaching the Prompt: Integrating Prompt Literacy and Critical Thinking into AI-Enhanced Curriculum Design",
+    "place": "HS 1027",
+    "why": "Integrera AI-kompetens i kursdesign.",
+    "rank": 1,
+    "group": "mon-3"
+  },
+  {
+    "id": "mon-3-1",
+    "day": "mon",
+    "time": "10:10–10:40",
+    "title": "AI in a Core-Curriculum: What a Year of Experimentation Taught Us About Designing AI for Learning",
+    "place": "HS 0027",
+    "why": "Erfarenheter av kursutveckling.",
+    "rank": 2,
+    "group": "mon-3"
+  },
+  {
+    "id": "mon-3-2",
+    "day": "mon",
+    "time": "10:10–10:40",
+    "title": "Beyond AI Awareness: Building Faculty AI Fluency for Teaching, Learning, and Workforce Readiness",
+    "place": "HS 1030",
+    "why": "Kompetensutveckling för lärare.",
+    "rank": 3,
+    "group": "mon-3"
+  },
+  {
+    "id": "mon-4-0",
+    "day": "mon",
+    "time": "10:50–11:20",
+    "title": "Assessment After AI: Designing Assignments That Measure Thinking, Not Output",
+    "place": "HS 0027",
+    "why": "Examination som synliggör tänkande.",
+    "rank": 1,
+    "group": "mon-4"
+  },
+  {
+    "id": "mon-4-1",
+    "day": "mon",
+    "time": "10:50–11:20",
+    "title": "Human-AI Collaboration and Student Agency in Hybrid Higher Education",
+    "place": "HS 1027",
+    "why": "Studenters självständighet.",
+    "rank": 2,
+    "group": "mon-4"
+  },
+  {
+    "id": "mon-4-2",
+    "day": "mon",
+    "time": "10:50–11:20",
+    "title": "From Policy to Practice: AI Governance Tools from a Dutch National Learning Programme",
+    "place": "HS 1033",
+    "why": "Implementering på lärosätesnivå.",
+    "rank": 3,
+    "group": "mon-4"
+  },
+  {
+    "id": "mon-5-0",
+    "day": "mon",
+    "time": "11:30–12:00",
+    "title": "From AI Tool to Thinking Companion: Human-Centered and Sovereign AI in Real Educational Practice",
+    "place": "HS 0026",
+    "why": "AI som stöd för tänkande.",
+    "rank": 1,
+    "group": "mon-5"
+  },
+  {
+    "id": "mon-5-1",
+    "day": "mon",
+    "time": "11:30–12:00",
+    "title": "Pedagogy of Practice: Redesigning Curriculum with AI-Driven Virtual Simulations",
+    "place": "HS 1033",
+    "why": "Praktisk kursutveckling.",
+    "rank": 2,
+    "group": "mon-5"
+  },
+  {
+    "id": "mon-5-2",
+    "day": "mon",
+    "time": "11:30–12:00",
+    "title": "From Learning to Doing: How AI Guides Students Through Their Research Journey",
+    "place": "HS 0027",
+    "why": "Handledning och arbetsprocess.",
+    "rank": 3,
+    "group": "mon-5"
+  },
+  {
+    "id": "mon-6-event",
+    "day": "mon",
+    "time": "12:00–13:15",
+    "title": "Lunch",
+    "place": "HN Food Court",
+    "why": "",
+    "rank": 0,
+    "group": "mon-6"
+  },
+  {
+    "id": "mon-7-0",
+    "day": "mon",
+    "time": "13:30–14:00",
+    "title": "AI-Driven Inclusive Teaching Strategies in Higher Education",
+    "place": "HS 1030",
+    "why": "Differentierad och inkluderande undervisning.",
+    "rank": 1,
+    "group": "mon-7"
+  },
+  {
+    "id": "mon-7-1",
+    "day": "mon",
+    "time": "13:30–14:00",
+    "title": "The Tipping Point: Human Agency and AI Dependence in Higher Education",
+    "place": "HS 1033",
+    "why": "Självständighet och AI-beroende.",
+    "rank": 2,
+    "group": "mon-7"
+  },
+  {
+    "id": "mon-7-2",
+    "day": "mon",
+    "time": "13:30–14:00",
+    "title": "Pedagogy First, Tools Second: A Faculty AI Community of Practice",
+    "place": "HS 2018",
+    "why": "Kollegial undervisningsutveckling.",
+    "rank": 3,
+    "group": "mon-7"
+  },
+  {
+    "id": "mon-8-0",
+    "day": "mon",
+    "time": "14:10–14:40",
+    "title": "Designing Learning and Assessment for an AI-Enabled Online Learning Environment",
+    "place": "HS 2032",
+    "why": "Undervisningsdesign och bedömning.",
+    "rank": 1,
+    "group": "mon-8"
+  },
+  {
+    "id": "mon-8-1",
+    "day": "mon",
+    "time": "14:10–14:40",
+    "title": "Students Asked for More: Using AI Conversation Agents to Drive Engagement and Dialogue",
+    "place": "HS 1030",
+    "why": "Aktivt studentlärande.",
+    "rank": 2,
+    "group": "mon-8"
+  },
+  {
+    "id": "mon-8-2",
+    "day": "mon",
+    "time": "14:10–14:40",
+    "title": "Beyond the Prompt: A Faculty Development Framework for Sustainable AI Literacy",
+    "place": "HS 1033",
+    "why": "Lärarkompetens och pedagogiskt stöd.",
+    "rank": 3,
+    "group": "mon-8"
+  },
+  {
+    "id": "mon-9-event",
+    "day": "mon",
+    "time": "14:40–15:40",
+    "title": "AI Playground",
+    "place": "1034, 1F",
+    "why": "",
+    "rank": 0,
+    "group": "mon-9"
+  },
+  {
+    "id": "mon-10-0",
+    "day": "mon",
+    "time": "14:50–15:20",
+    "title": "From Efficiency to Essence: Reclaiming Time, Values and Human Connection in the Age of AI",
+    "place": "HS 0026",
+    "why": "Tid för pedagogiskt värdefullt arbete.",
+    "rank": 1,
+    "group": "mon-10"
+  },
+  {
+    "id": "mon-10-1",
+    "day": "mon",
+    "time": "14:50–15:20",
+    "title": "Building an Adaptive AI Learning Agent: A Practical Blueprint, Tested on Privacy-Conscious AI Use",
+    "place": "HS 1030",
+    "why": "AI-agenter för lärande.",
+    "rank": 2,
+    "group": "mon-10"
+  },
+  {
+    "id": "mon-10-2",
+    "day": "mon",
+    "time": "14:50–15:20",
+    "title": "From Chatbot to Course Partner: Designing AI Practice and Feedback Systems That Preserve Student Authorship",
+    "place": "HS 0027",
+    "why": "Feedback och studenters självständighet.",
+    "rank": 3,
+    "group": "mon-10"
+  },
+  {
+    "id": "mon-11-0",
+    "day": "mon",
+    "time": "15:30–16:00",
+    "title": "Mastering the Persuasive Dynamics of AI through Critical Rhetorical Literacy",
+    "place": "HS 2032",
+    "why": "Kritiskt tänkande och AI.",
+    "rank": 1,
+    "group": "mon-11"
+  },
+  {
+    "id": "mon-11-1",
+    "day": "mon",
+    "time": "15:30–16:00",
+    "title": "Teaching the Question: Ethical Editing as a Core AI Literacy Skill in Higher Education",
+    "place": "HS 0027",
+    "why": "Konkret AI-litteracitet.",
+    "rank": 2,
+    "group": "mon-11"
+  },
+  {
+    "id": "mon-11-2",
+    "day": "mon",
+    "time": "15:30–16:00",
+    "title": "Blueprinting Tomorrow: AI Workforce Project",
+    "place": "HS 1030",
+    "why": "Kompetensmål och kursutveckling.",
+    "rank": 3,
+    "group": "mon-11"
+  },
+  {
+    "id": "mon-12-0",
+    "day": "mon",
+    "time": "16:10–16:40",
+    "title": "Stop Thinking, Start Reflecting: Building an AI-Powered Reflection Tool for Logistics Students",
+    "place": "HS 0026",
+    "why": "Reflektion och formativt lärande.",
+    "rank": 1,
+    "group": "mon-12"
+  },
+  {
+    "id": "mon-12-1",
+    "day": "mon",
+    "time": "16:10–16:40",
+    "title": "Combined Intelligence: Teaching Systems Thinking and Critical Thinking in the Age of AI",
+    "place": "HS 1030",
+    "why": "Systemtänkande och kritiskt tänkande.",
+    "rank": 2,
+    "group": "mon-12"
+  },
+  {
+    "id": "mon-12-2",
+    "day": "mon",
+    "time": "16:10–16:40",
+    "title": "Effective, Evidence-Based AI Tools for University Courses Based on Research and Practice at UCLA",
+    "place": "HS 1033",
+    "why": "Forskningsanknuten AI-användning.",
+    "rank": 3,
+    "group": "mon-12"
+  },
+  {
+    "id": "mon-13-event",
+    "day": "mon",
+    "time": "16:50–17:00",
+    "title": "Closing / Transition",
+    "place": "",
+    "why": "",
+    "rank": 0,
+    "group": "mon-13"
+  },
+  {
+    "id": "mon-14-event",
+    "day": "mon",
+    "time": "17:00–18:00",
+    "title": "Networking Hour and Poster Sessions",
+    "place": "Small Atrium",
+    "why": "",
+    "rank": 0,
+    "group": "mon-14"
+  },
+  {
+    "id": "tue-0-event",
+    "day": "tue",
+    "time": "08:00–08:45",
+    "title": "Registrering och kaffe",
+    "place": "Small Atrium",
+    "why": "",
+    "rank": 0,
+    "group": "tue-0"
+  },
+  {
+    "id": "tue-1-event",
+    "day": "tue",
+    "time": "08:45–09:00",
+    "title": "Welcome and Orientation",
+    "place": "Chapel",
+    "why": "",
+    "rank": 0,
+    "group": "tue-1"
+  },
+  {
+    "id": "tue-2-event",
+    "day": "tue",
+    "time": "09:00–10:00",
+    "title": "Closing Keynote: What Were We Really Measuring?",
+    "place": "Chapel",
+    "why": "",
+    "rank": 0,
+    "group": "tue-2"
+  },
+  {
+    "id": "tue-3-0",
+    "day": "tue",
+    "time": "10:10–10:40",
+    "title": "Beyond the Prompt: AI as Springboard and Scaffold in the Language Classroom",
+    "place": "HS 0026",
+    "why": "AI som stöd för lärande.",
+    "rank": 1,
+    "group": "tue-3"
+  },
+  {
+    "id": "tue-3-1",
+    "day": "tue",
+    "time": "10:10–10:40",
+    "title": "Human Skills as Intended Learning Outcomes: Making Development Visible, Countable, and Accountable with AI at Scale",
+    "place": "HS 0027",
+    "why": "Bedömning av mänskliga kompetenser.",
+    "rank": 2,
+    "group": "tue-3"
+  },
+  {
+    "id": "tue-3-2",
+    "day": "tue",
+    "time": "10:10–10:40",
+    "title": "From Manuscripts to Spaceships: Tools to Redesign the Master’s Dissertation and Rethink Ownership in the Age of AI",
+    "place": "HS 1033",
+    "why": "Självständiga arbeten och examination.",
+    "rank": 3,
+    "group": "tue-3"
+  },
+  {
+    "id": "tue-4-event",
+    "day": "tue",
+    "time": "10:30–11:30",
+    "title": "AI Playground",
+    "place": "1034, 1F",
+    "why": "",
+    "rank": 0,
+    "group": "tue-4"
+  },
+  {
+    "id": "tue-5-0",
+    "day": "tue",
+    "time": "10:50–11:20",
+    "title": "Beyond Detection: Practical Strategies to Empower Faculty and Support Responsible Student AI Use",
+    "place": "HS 2032",
+    "why": "Ansvarsfull AI-användning och integritet.",
+    "rank": 1,
+    "group": "tue-5"
+  },
+  {
+    "id": "tue-5-1",
+    "day": "tue",
+    "time": "10:50–11:20",
+    "title": "Educational Approaches at the Interface of Architecture and Artificial Intelligence: A Review of Universities in Türkiye",
+    "place": "HS 1027",
+    "why": "Kurs- och programutveckling.",
+    "rank": 2,
+    "group": "tue-5"
+  },
+  {
+    "id": "tue-5-2",
+    "day": "tue",
+    "time": "10:50–11:20",
+    "title": "From Content to Comics: Using AI-Supported Graphic Novels to Teach Complex Concepts",
+    "place": "HS 1033",
+    "why": "Kreativa läraktiviteter.",
+    "rank": 3,
+    "group": "tue-5"
+  },
+  {
+    "id": "tue-6-0",
+    "day": "tue",
+    "time": "11:30–12:00",
+    "title": "From Prompt to Possibility: Co-Designing Thought-Revealing Activities with AI",
+    "place": "HS 1030",
+    "why": "Aktiviteter som synliggör tänkande.",
+    "rank": 1,
+    "group": "tue-6"
+  },
+  {
+    "id": "tue-6-1",
+    "day": "tue",
+    "time": "11:30–12:00",
+    "title": "3W: AI-Tutor – A Human-Centered and Explainable Framework for AI-Assisted Pedagogy and Curriculum Design",
+    "place": "HS 0026",
+    "why": "Pedagogisk AI-design.",
+    "rank": 2,
+    "group": "tue-6"
+  },
+  {
+    "id": "tue-6-2",
+    "day": "tue",
+    "time": "11:30–12:00",
+    "title": "From Research to Practice: Closing the Implementation Gap in Higher Education AI",
+    "place": "HS 0027",
+    "why": "Från idé till praktik.",
+    "rank": 3,
+    "group": "tue-6"
+  },
+  {
+    "id": "tue-7-event",
+    "day": "tue",
+    "time": "12:00–13:15",
+    "title": "Lunch",
+    "place": "HN Food Court",
+    "why": "",
+    "rank": 0,
+    "group": "tue-7"
+  },
+  {
+    "id": "tue-8-0",
+    "day": "tue",
+    "time": "13:30–14:00",
+    "title": "AI Abundance and AI Absence: Reframing Educational Outcomes for AI-Augmented and AI-Independent Performance",
+    "place": "HS 1030",
+    "why": "Lärandemål med och utan AI.",
+    "rank": 1,
+    "group": "tue-8"
+  },
+  {
+    "id": "tue-8-1",
+    "day": "tue",
+    "time": "13:30–14:00",
+    "title": "Tiny AI Activities, Big Impact: Two Short Writing Activities for Busy Lecturers",
+    "place": "HS 0026",
+    "why": "Två konkreta skrivövningar.",
+    "rank": 2,
+    "group": "tue-8"
+  },
+  {
+    "id": "tue-8-2",
+    "day": "tue",
+    "time": "13:30–14:00",
+    "title": "Hallucinations Included: Teaching Students to Critique AI-Generated Industry Analysis",
+    "place": "HS 0027",
+    "why": "Kritisk granskning av AI-innehåll.",
+    "rank": 3,
+    "group": "tue-8"
+  },
+  {
+    "id": "tue-9-0",
+    "day": "tue",
+    "time": "14:10–14:40",
+    "title": "Assessment Futures in the Age of AI",
+    "place": "HS 0027",
+    "why": "Examination och professionell bedömning.",
+    "rank": 1,
+    "group": "tue-9"
+  },
+  {
+    "id": "tue-9-1",
+    "day": "tue",
+    "time": "14:10–14:40",
+    "title": "AI Study Companions, Grounded in the Course Material",
+    "place": "HS 1030",
+    "why": "AI som handledare, inte facit.",
+    "rank": 2,
+    "group": "tue-9"
+  },
+  {
+    "id": "tue-9-2",
+    "day": "tue",
+    "time": "14:10–14:40",
+    "title": "Making Learning Visible: Using AI and Interactive Slides to Validate Understanding in Real Time",
+    "place": "HS 2032",
+    "why": "Formativ bedömning i realtid.",
+    "rank": 3,
+    "group": "tue-9"
+  },
+  {
+    "id": "tue-10-0",
+    "day": "tue",
+    "time": "14:50–15:20",
+    "title": "What Happens When Teachers Redesign for AI? Lessons from a BKO+ Professional Development Track",
+    "place": "HS 1030",
+    "why": "Systematisk kollegial kursutveckling.",
+    "rank": 1,
+    "group": "tue-10"
+  },
+  {
+    "id": "tue-10-1",
+    "day": "tue",
+    "time": "14:50–15:20",
+    "title": "AI Competencies: Teaching Reasoning, Verification, and Ethical Use Across Disciplines",
+    "place": "HS 0026",
+    "why": "AI-kompetenser och källkritik.",
+    "rank": 2,
+    "group": "tue-10"
+  },
+  {
+    "id": "tue-10-2",
+    "day": "tue",
+    "time": "14:50–15:20",
+    "title": "Human-in-the-Loop as Learning Space Design: Piloting AI Learning Agents",
+    "place": "HS 1027",
+    "why": "Pedagogiskt utformade AI-lärmiljöer.",
+    "rank": 3,
+    "group": "tue-10"
+  },
+  {
+    "id": "tue-11-0",
+    "day": "tue",
+    "time": "15:30–16:00",
+    "title": "From Detection to Design: Fostering Academic Integrity in the Age of AI",
+    "place": "HS 0026",
+    "why": "Autentisk examination i stället för fuskdetektion.",
+    "rank": 1,
+    "group": "tue-11"
+  },
+  {
+    "id": "tue-11-1",
+    "day": "tue",
+    "time": "15:30–16:00",
+    "title": "Participation by Design: How the Munich University of Applied Sciences Engages All Stakeholders on the Path to AI Competence",
+    "place": "HS 1027",
+    "why": "Organisatorisk undervisningsutveckling.",
+    "rank": 2,
+    "group": "tue-11"
+  },
+  {
+    "id": "tue-11-2",
+    "day": "tue",
+    "time": "15:30–16:00",
+    "title": "AI-Augmented Software Engineering Education: Designing Assessable AI Use in Software Engineering Education",
+    "place": "HS 2032",
+    "why": "Bedömning av AI-stött projektarbete.",
+    "rank": 3,
+    "group": "tue-11"
+  },
+  {
+    "id": "tue-12-0",
+    "day": "tue",
+    "time": "16:10–16:40",
+    "title": "From Awareness to Capability: Designing a Task-Based AI Literacy Framework for Faculty Development",
+    "place": "HS 1033",
+    "why": "Arbetsuppgiftsbaserad AI-kompetens för lärare.",
+    "rank": 1,
+    "group": "tue-12"
+  },
+  {
+    "id": "tue-12-1",
+    "day": "tue",
+    "time": "16:10–16:40",
+    "title": "Becoming a TRAILblazer: Building a Global Repository for AI Learning",
+    "place": "HS 1030",
+    "why": "Delbara undervisningsresurser.",
+    "rank": 2,
+    "group": "tue-12"
+  },
+  {
+    "id": "tue-12-2",
+    "day": "tue",
+    "time": "16:10–16:40",
+    "title": "Beyond the AI Gadget: Embedding FysioSim as a Blended Clinical Reasoning Practice in Physiotherapy Education",
+    "place": "HS 2032",
+    "why": "AI-simulering för kliniskt resonemang.",
+    "rank": 3,
+    "group": "tue-12"
+  },
+  {
+    "id": "tue-13-event",
+    "day": "tue",
+    "time": "16:45–17:00",
+    "title": "Closing / Call to Action",
+    "place": "Chapel",
+    "why": "",
+    "rank": 0,
+    "group": "tue-13"
+  }
+]
