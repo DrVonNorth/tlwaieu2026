@@ -2,12 +2,25 @@
   {
     "id": "mon-0-event",
     "day": "mon",
-    "time": "08:00–08:45",
-    "title": "Registrering och kaffe",
-    "place": "Small Atrium",
+    "time": "08:00–17:00",
+    "title": "Registration",
+    "place": "HS Small Atrium GF",
     "why": "",
     "rank": 0,
-    "group": "mon-0"
+    "group": "mon-0",
+    "category": "event"
+  },
+  {
+    "id": "mon-sponsor-exhibition",
+    "day": "mon",
+    "time": "08:00–17:00",
+    "title": "Sponsor Exhibition and All-Day Coffee",
+    "place": "HS Small Atrium GF",
+    "why": "",
+    "rank": 0,
+    "group": "mon-all-day",
+    "category": "event",
+    "source": "Programbild 4/35"
   },
   {
     "id": "mon-1-event",
@@ -17,7 +30,8 @@
     "place": "Chapel",
     "why": "",
     "rank": 0,
-    "group": "mon-1"
+    "group": "mon-1",
+    "category": "event"
   },
   {
     "id": "mon-2-event",
@@ -27,7 +41,8 @@
     "place": "Chapel",
     "why": "",
     "rank": 0,
-    "group": "mon-2"
+    "group": "mon-2",
+    "category": "event"
   },
   {
     "id": "mon-3-0",
@@ -37,7 +52,8 @@
     "place": "HS 1027",
     "why": "Integrera AI-kompetens i kursdesign.",
     "rank": 1,
-    "group": "mon-3"
+    "group": "mon-10:10–10:40",
+    "category": "presentation"
   },
   {
     "id": "mon-3-1",
@@ -47,7 +63,8 @@
     "place": "HS 0027",
     "why": "Erfarenheter av kursutveckling.",
     "rank": 2,
-    "group": "mon-3"
+    "group": "mon-10:10–10:40",
+    "category": "presentation"
   },
   {
     "id": "mon-3-2",
@@ -57,7 +74,44 @@
     "place": "HS 1030",
     "why": "Kompetensutveckling för lärare.",
     "rank": 3,
-    "group": "mon-3"
+    "group": "mon-10:10–10:40",
+    "category": "presentation"
+  },
+  {
+    "id": "mon-ai-overview-for-novice-attendees",
+    "day": "mon",
+    "time": "10:10–10:40",
+    "title": "AI Overview for Novice Attendees",
+    "place": "HS 0026",
+    "why": "",
+    "rank": 0,
+    "group": "mon-10:10–10:40",
+    "category": "presentation",
+    "source": "Programbilder 1–55"
+  },
+  {
+    "id": "mon-leveraging-ai-to-strengthen-career-readiness-a",
+    "day": "mon",
+    "time": "10:10–10:40",
+    "title": "Leveraging AI to Strengthen Career Readiness and Student Success",
+    "place": "HS 1033",
+    "why": "",
+    "rank": 0,
+    "group": "mon-10:10–10:40",
+    "category": "presentation",
+    "source": "Programbilder 1–55"
+  },
+  {
+    "id": "mon-rules-and-regulations-on-ai-use-at-the-univers",
+    "day": "mon",
+    "time": "10:10–10:40",
+    "title": "Rules and Regulations on AI Use at the University of South Bohemia in České Budějovice",
+    "place": "HS 2032",
+    "why": "",
+    "rank": 0,
+    "group": "mon-10:10–10:40",
+    "category": "presentation",
+    "source": "Programbilder 1–55"
   },
   {
     "id": "mon-4-0",
@@ -67,7 +121,8 @@
     "place": "HS 0027",
     "why": "Examination som synliggör tänkande.",
     "rank": 1,
-    "group": "mon-4"
+    "group": "mon-10:50–11:20",
+    "category": "presentation"
   },
   {
     "id": "mon-4-1",
@@ -77,7 +132,8 @@
     "place": "HS 1027",
     "why": "Studenters självständighet.",
     "rank": 2,
-    "group": "mon-4"
+    "group": "mon-10:50–11:20",
+    "category": "presentation"
   },
   {
     "id": "mon-4-2",
@@ -87,7 +143,44 @@
     "place": "HS 1033",
     "why": "Implementering på lärosätesnivå.",
     "rank": 3,
-    "group": "mon-4"
+    "group": "mon-10:50–11:20",
+    "category": "presentation"
+  },
+  {
+    "id": "mon-evaluating-ai-supported-learning-through-the-l",
+    "day": "mon",
+    "time": "10:50–11:20",
+    "title": "Evaluating AI-Supported Learning Through the Lens of UDL",
+    "place": "HS 0026",
+    "why": "",
+    "rank": 0,
+    "group": "mon-10:50–11:20",
+    "category": "presentation",
+    "source": "Programbilder 1–55"
+  },
+  {
+    "id": "mon-three-disciplines-one-tool-notebook-lm",
+    "day": "mon",
+    "time": "10:50–11:20",
+    "title": "Three Disciplines, One Tool: Notebook LM",
+    "place": "HS 1030",
+    "why": "",
+    "rank": 0,
+    "group": "mon-10:50–11:20",
+    "category": "presentation",
+    "source": "Programbilder 1–55"
+  },
+  {
+    "id": "mon-augmented-not-automated-ethical-ai-usage-for-a",
+    "day": "mon",
+    "time": "10:50–11:20",
+    "title": "Augmented, Not Automated: Ethical AI Usage for Academic Manuscript Writing Cycle",
+    "place": "HS 2032",
+    "why": "",
+    "rank": 0,
+    "group": "mon-10:50–11:20",
+    "category": "presentation",
+    "source": "Programbilder 1–55"
   },
   {
     "id": "mon-5-0",
@@ -97,17 +190,8 @@
     "place": "HS 0026",
     "why": "AI som stöd för tänkande.",
     "rank": 1,
-    "group": "mon-5"
-  },
-  {
-    "id": "mon-5-1",
-    "day": "mon",
-    "time": "11:30–12:00",
-    "title": "Pedagogy of Practice: Redesigning Curriculum with AI-Driven Virtual Simulations",
-    "place": "HS 1033",
-    "why": "Praktisk kursutveckling.",
-    "rank": 2,
-    "group": "mon-5"
+    "group": "mon-11:30–12:00",
+    "category": "presentation"
   },
   {
     "id": "mon-5-2",
@@ -117,7 +201,43 @@
     "place": "HS 0027",
     "why": "Handledning och arbetsprocess.",
     "rank": 3,
-    "group": "mon-5"
+    "group": "mon-11:30–12:00",
+    "category": "presentation"
+  },
+  {
+    "id": "mon-5-1",
+    "day": "mon",
+    "time": "11:30–12:00",
+    "title": "Pedagogy of Practice: Redesigning Curriculum with AI-Driven Virtual Simulations",
+    "place": "HS 1033",
+    "why": "Praktisk kursutveckling.",
+    "rank": 2,
+    "group": "mon-11:30–12:00",
+    "category": "presentation"
+  },
+  {
+    "id": "mon-the-double-edged-sword-of-ai-implementation-ba",
+    "day": "mon",
+    "time": "11:30–12:00",
+    "title": "The Double-Edged Sword of AI Implementation: Balancing Capabilities and Permissions",
+    "place": "HS 1030",
+    "why": "",
+    "rank": 0,
+    "group": "mon-11:30–12:00",
+    "category": "presentation",
+    "source": "Programbilder 1–55"
+  },
+  {
+    "id": "mon-the-real-reason-phd-researchers-use-ai-it-s-pr",
+    "day": "mon",
+    "time": "11:30–12:00",
+    "title": "The Real Reason PhD Researchers Use AI (It's Probably Not What Your AI Survey Says)",
+    "place": "HS 2032",
+    "why": "",
+    "rank": 0,
+    "group": "mon-11:30–12:00",
+    "category": "presentation",
+    "source": "Programbilder 1–55"
   },
   {
     "id": "mon-6-event",
@@ -127,17 +247,19 @@
     "place": "HN Food Court",
     "why": "",
     "rank": 0,
-    "group": "mon-6"
+    "group": "mon-6",
+    "category": "event"
   },
   {
     "id": "mon-7-0",
     "day": "mon",
     "time": "13:30–14:00",
-    "title": "AI-Driven Inclusive Teaching Strategies in Higher Education",
+    "title": "AI-Driven Inclusive Teaching Strategies in Higher Education: Bridging Equity, Accessibility, and Pedagogical Innovation",
     "place": "HS 1030",
     "why": "Differentierad och inkluderande undervisning.",
     "rank": 1,
-    "group": "mon-7"
+    "group": "mon-13:30–14:00",
+    "category": "presentation"
   },
   {
     "id": "mon-7-1",
@@ -147,17 +269,55 @@
     "place": "HS 1033",
     "why": "Självständighet och AI-beroende.",
     "rank": 2,
-    "group": "mon-7"
+    "group": "mon-13:30–14:00",
+    "category": "presentation"
   },
   {
     "id": "mon-7-2",
     "day": "mon",
     "time": "13:30–14:00",
     "title": "Pedagogy First, Tools Second: A Faculty AI Community of Practice",
-    "place": "HS 2018",
+    "place": "HN 2018",
     "why": "Kollegial undervisningsutveckling.",
     "rank": 3,
-    "group": "mon-7"
+    "group": "mon-13:30–14:00",
+    "category": "presentation"
+  },
+  {
+    "id": "mon-analog-inspiration-promoting-values-aligned-hu",
+    "day": "mon",
+    "time": "13:30–14:30",
+    "title": "Analog Inspiration: Promoting Values-Aligned, Human-Centered AI in the Classroom",
+    "place": "HS 0026",
+    "why": "",
+    "rank": 0,
+    "group": "mon-13:30–14:30",
+    "category": "presentation",
+    "source": "Programbilder 1–55"
+  },
+  {
+    "id": "mon-educational-ai-ethics-card-game",
+    "day": "mon",
+    "time": "13:30–14:30",
+    "title": "Educational AI Ethics Card Game",
+    "place": "HS 0027",
+    "why": "",
+    "rank": 0,
+    "group": "mon-13:30–14:30",
+    "category": "presentation",
+    "source": "Programbilder 1–55"
+  },
+  {
+    "id": "mon-the-great-ai-cleanup-ditch-the-ai-tool-fatigue",
+    "day": "mon",
+    "time": "13:30–14:00",
+    "title": "The Great AI Cleanup: Ditch the AI Tool Fatigue and Streamline Your Workflow with Google",
+    "place": "HS 2032",
+    "why": "",
+    "rank": 0,
+    "group": "mon-13:30–14:00",
+    "category": "presentation",
+    "source": "Programbilder 1–55"
   },
   {
     "id": "mon-8-0",
@@ -167,7 +327,8 @@
     "place": "HS 2032",
     "why": "Undervisningsdesign och bedömning.",
     "rank": 1,
-    "group": "mon-8"
+    "group": "mon-14:10–14:40",
+    "category": "presentation"
   },
   {
     "id": "mon-8-1",
@@ -177,7 +338,8 @@
     "place": "HS 1030",
     "why": "Aktivt studentlärande.",
     "rank": 2,
-    "group": "mon-8"
+    "group": "mon-14:10–14:40",
+    "category": "presentation"
   },
   {
     "id": "mon-8-2",
@@ -187,7 +349,8 @@
     "place": "HS 1033",
     "why": "Lärarkompetens och pedagogiskt stöd.",
     "rank": 3,
-    "group": "mon-8"
+    "group": "mon-14:10–14:40",
+    "category": "presentation"
   },
   {
     "id": "mon-9-event",
@@ -197,7 +360,8 @@
     "place": "1034, 1F",
     "why": "",
     "rank": 0,
-    "group": "mon-9"
+    "group": "mon-9",
+    "category": "event"
   },
   {
     "id": "mon-10-0",
@@ -207,17 +371,8 @@
     "place": "HS 0026",
     "why": "Tid för pedagogiskt värdefullt arbete.",
     "rank": 1,
-    "group": "mon-10"
-  },
-  {
-    "id": "mon-10-1",
-    "day": "mon",
-    "time": "14:50–15:20",
-    "title": "Building an Adaptive AI Learning Agent: A Practical Blueprint, Tested on Privacy-Conscious AI Use",
-    "place": "HS 1030",
-    "why": "AI-agenter för lärande.",
-    "rank": 2,
-    "group": "mon-10"
+    "group": "mon-14:50–15:20",
+    "category": "presentation"
   },
   {
     "id": "mon-10-2",
@@ -227,7 +382,43 @@
     "place": "HS 0027",
     "why": "Feedback och studenters självständighet.",
     "rank": 3,
-    "group": "mon-10"
+    "group": "mon-14:50–15:20",
+    "category": "presentation"
+  },
+  {
+    "id": "mon-10-1",
+    "day": "mon",
+    "time": "14:50–15:20",
+    "title": "Building an Adaptive AI Learning Agent: A Practical Blueprint, Tested on Privacy-Conscious AI Use",
+    "place": "HS 1030",
+    "why": "AI-agenter för lärande.",
+    "rank": 2,
+    "group": "mon-14:50–15:20",
+    "category": "presentation"
+  },
+  {
+    "id": "mon-from-readiness-to-action-what-educational-inst",
+    "day": "mon",
+    "time": "14:50–15:20",
+    "title": "From Readiness to Action: What Educational Institutions Need to Move AI from Ambition to Effective Adoption",
+    "place": "HS 1033",
+    "why": "",
+    "rank": 0,
+    "group": "mon-14:50–15:20",
+    "category": "presentation",
+    "source": "Programbilder 1–55"
+  },
+  {
+    "id": "mon-bridging-the-gap-preparing-non-stem-majors-for",
+    "day": "mon",
+    "time": "14:50–15:20",
+    "title": "Bridging the Gap: Preparing Non-STEM Majors for the AI-Augmented Workforce",
+    "place": "HS 2032",
+    "why": "",
+    "rank": 0,
+    "group": "mon-14:50–15:20",
+    "category": "presentation",
+    "source": "Programbilder 1–55"
   },
   {
     "id": "mon-11-0",
@@ -237,7 +428,8 @@
     "place": "HS 2032",
     "why": "Kritiskt tänkande och AI.",
     "rank": 1,
-    "group": "mon-11"
+    "group": "mon-15:30–16:00",
+    "category": "presentation"
   },
   {
     "id": "mon-11-1",
@@ -247,7 +439,8 @@
     "place": "HS 0027",
     "why": "Konkret AI-litteracitet.",
     "rank": 2,
-    "group": "mon-11"
+    "group": "mon-15:30–16:00",
+    "category": "presentation"
   },
   {
     "id": "mon-11-2",
@@ -257,7 +450,44 @@
     "place": "HS 1030",
     "why": "Kompetensmål och kursutveckling.",
     "rank": 3,
-    "group": "mon-11"
+    "group": "mon-15:30–16:00",
+    "category": "presentation"
+  },
+  {
+    "id": "mon-bringing-ai-together-a-practical-framework-for",
+    "day": "mon",
+    "time": "15:30–16:00",
+    "title": "Bringing AI Together: A Practical Framework for Governance, Innovation and Infrastructure",
+    "place": "HS 0026",
+    "why": "",
+    "rank": 0,
+    "group": "mon-15:30–16:00",
+    "category": "presentation",
+    "source": "Programbilder 1–55"
+  },
+  {
+    "id": "mon-ai-competencies-to-credentials-a-flexible-and-",
+    "day": "mon",
+    "time": "15:30–16:00",
+    "title": "AI Competencies to Credentials: A Flexible and Scalable Model for AI Across the Curriculum",
+    "place": "HS 1027",
+    "why": "",
+    "rank": 0,
+    "group": "mon-15:30–16:00",
+    "category": "presentation",
+    "source": "Programbilder 1–55"
+  },
+  {
+    "id": "mon-promoting-problem-based-learning-in-engineerin",
+    "day": "mon",
+    "time": "15:30–16:00",
+    "title": "Promoting Problem-Based Learning in Engineering Education with Artificial Intelligence Tools",
+    "place": "HS 1033",
+    "why": "",
+    "rank": 0,
+    "group": "mon-15:30–16:00",
+    "category": "presentation",
+    "source": "Programbilder 1–55"
   },
   {
     "id": "mon-12-0",
@@ -267,7 +497,8 @@
     "place": "HS 0026",
     "why": "Reflektion och formativt lärande.",
     "rank": 1,
-    "group": "mon-12"
+    "group": "mon-16:10–16:40",
+    "category": "presentation"
   },
   {
     "id": "mon-12-1",
@@ -277,7 +508,8 @@
     "place": "HS 1030",
     "why": "Systemtänkande och kritiskt tänkande.",
     "rank": 2,
-    "group": "mon-12"
+    "group": "mon-16:10–16:40",
+    "category": "presentation"
   },
   {
     "id": "mon-12-2",
@@ -287,37 +519,245 @@
     "place": "HS 1033",
     "why": "Forskningsanknuten AI-användning.",
     "rank": 3,
-    "group": "mon-12"
+    "group": "mon-16:10–16:40",
+    "category": "presentation"
+  },
+  {
+    "id": "mon-human-creativity-local-context-and-ai-in-entre",
+    "day": "mon",
+    "time": "16:10–16:40",
+    "title": "Human Creativity, Local Context, and AI in Entrepreneurship Education",
+    "place": "HS 0027",
+    "why": "",
+    "rank": 0,
+    "group": "mon-16:10–16:40",
+    "category": "presentation",
+    "source": "Programbilder 1–55"
+  },
+  {
+    "id": "mon-exam-settings-in-the-age-of-ai-based-on-bloom-",
+    "day": "mon",
+    "time": "16:10–16:40",
+    "title": "Exam Settings in the Age of AI Based on Bloom’s Taxonomy Model",
+    "place": "HS 1027",
+    "why": "",
+    "rank": 0,
+    "group": "mon-16:10–16:40",
+    "category": "presentation",
+    "source": "Programbilder 1–55"
+  },
+  {
+    "id": "mon-beyond-copy-and-paste-teaching-students-to-thi",
+    "day": "mon",
+    "time": "16:10–16:40",
+    "title": "Beyond Copy and Paste: Teaching Students to Think with AI",
+    "place": "HS 2032",
+    "why": "",
+    "rank": 0,
+    "group": "mon-16:10–16:40",
+    "category": "presentation",
+    "source": "Programbilder 1–55"
   },
   {
     "id": "mon-13-event",
     "day": "mon",
     "time": "16:50–17:00",
     "title": "Closing / Transition",
-    "place": "",
+    "place": "HS Chapel",
     "why": "",
     "rank": 0,
-    "group": "mon-13"
+    "group": "mon-13",
+    "category": "event"
+  },
+  {
+    "id": "mon-ai-applications-in-the-workplace",
+    "day": "mon",
+    "time": "17:00–18:00",
+    "title": "AI Applications in the Workplace",
+    "place": "HS Small Atrium GF",
+    "why": "",
+    "rank": 0,
+    "group": "mon-17:00–18:00",
+    "category": "poster",
+    "source": "Programbilder 1–55"
+  },
+  {
+    "id": "mon-ai-tutors-in-thesis-supervision-a-socratic-app",
+    "day": "mon",
+    "time": "17:00–18:00",
+    "title": "AI Tutors in Thesis Supervision: A Socratic Approach to Research Skills Development",
+    "place": "HS Small Atrium GF",
+    "why": "",
+    "rank": 0,
+    "group": "mon-17:00–18:00",
+    "category": "poster",
+    "source": "Programbilder 1–55"
+  },
+  {
+    "id": "mon-ai-and-biases-critical-application-use-and-ref",
+    "day": "mon",
+    "time": "17:00–18:00",
+    "title": "AI and Biases: Critical Application, Use and Reflection of AI in the Classroom",
+    "place": "HS Small Atrium GF",
+    "why": "",
+    "rank": 0,
+    "group": "mon-17:00–18:00",
+    "category": "poster",
+    "source": "Programbilder 1–55"
+  },
+  {
+    "id": "mon-an-analysis-of-korea-s-secondary-ai-curriculum",
+    "day": "mon",
+    "time": "17:00–18:00",
+    "title": "An Analysis of Korea's Secondary AI Curriculum Based on the AILit Framework",
+    "place": "HS Small Atrium GF",
+    "why": "",
+    "rank": 0,
+    "group": "mon-17:00–18:00",
+    "category": "poster",
+    "source": "Programbilder 1–55"
+  },
+  {
+    "id": "mon-beyond-what-a-critical-approach-to-genai-liter",
+    "day": "mon",
+    "time": "17:00–18:00",
+    "title": "Beyond What? A Critical Approach to GenAI Literacy and its Conceptualization",
+    "place": "HS Small Atrium GF",
+    "why": "",
+    "rank": 0,
+    "group": "mon-17:00–18:00",
+    "category": "poster",
+    "source": "Programbilder 1–55"
+  },
+  {
+    "id": "mon-beyond-the-prompt-a-faculty-development-framew",
+    "day": "mon",
+    "time": "17:00–18:00",
+    "title": "Beyond the Prompt: A Faculty Development Framework for Sustainable AI Literacy",
+    "place": "HS Small Atrium GF",
+    "why": "",
+    "rank": 0,
+    "group": "mon-17:00–18:00",
+    "category": "poster",
+    "source": "Programbilder 1–55"
+  },
+  {
+    "id": "mon-exploring-ai-learning-coaches-in-higher-educat",
+    "day": "mon",
+    "time": "17:00–18:00",
+    "title": "Exploring AI Learning Coaches in Higher Education: A Multi-Track Institutional Approach",
+    "place": "HS Small Atrium GF",
+    "why": "",
+    "rank": 0,
+    "group": "mon-17:00–18:00",
+    "category": "poster",
+    "source": "Programbilder 1–55"
+  },
+  {
+    "id": "mon-keeping-assessment-real",
+    "day": "mon",
+    "time": "17:00–18:00",
+    "title": "Keeping Assessment Real",
+    "place": "HS Small Atrium GF",
+    "why": "",
+    "rank": 0,
+    "group": "mon-17:00–18:00",
+    "category": "poster",
+    "source": "Programbilder 1–55"
+  },
+  {
+    "id": "mon-metacognition-and-emotional-intelligence-in-th",
+    "day": "mon",
+    "time": "17:00–18:00",
+    "title": "Metacognition and Emotional Intelligence in the Age of AI: Systematic Review of Future Teaching Competencies in Higher Education",
+    "place": "HS Small Atrium GF",
+    "why": "",
+    "rank": 0,
+    "group": "mon-17:00–18:00",
+    "category": "poster",
+    "source": "Programbilder 1–55"
+  },
+  {
+    "id": "mon-no-code-agency-how-any-media-production-can-de",
+    "day": "mon",
+    "time": "17:00–18:00",
+    "title": "No-Code Agency: How Any Media Production Can Design Its Own AI Sustainability Tool",
+    "place": "HS Small Atrium GF",
+    "why": "",
+    "rank": 0,
+    "group": "mon-17:00–18:00",
+    "category": "poster",
+    "source": "Programbilder 1–55"
+  },
+  {
+    "id": "mon-practising-before-it-counts-ai-mediated-rehear",
+    "day": "mon",
+    "time": "17:00–18:00",
+    "title": "Practising Before It Counts: AI-Mediated Rehearsal Spaces for Professional Communication",
+    "place": "HS Small Atrium GF",
+    "why": "",
+    "rank": 0,
+    "group": "mon-17:00–18:00",
+    "category": "poster",
+    "source": "Programbilder 1–55"
+  },
+  {
+    "id": "mon-the-genai-game-is-afoot-teaching-with-sherlock",
+    "day": "mon",
+    "time": "17:00–18:00",
+    "title": "The GenAI Game is AFoot: Teaching with Sherlock Holmes to Demystify Generative AI",
+    "place": "HS Small Atrium GF",
+    "why": "",
+    "rank": 0,
+    "group": "mon-17:00–18:00",
+    "category": "poster",
+    "source": "Programbilder 1–55"
+  },
+  {
+    "id": "mon-using-no-code-ai-to-teach-machine-learning-in-",
+    "day": "mon",
+    "time": "17:00–18:00",
+    "title": "Using No-Code AI to Teach Machine Learning in Higher Education",
+    "place": "HS Small Atrium GF",
+    "why": "",
+    "rank": 0,
+    "group": "mon-17:00–18:00",
+    "category": "poster",
+    "source": "Programbilder 1–55"
   },
   {
     "id": "mon-14-event",
     "day": "mon",
     "time": "17:00–18:00",
-    "title": "Networking Hour and Poster Sessions",
+    "title": "Networking Hour",
     "place": "Small Atrium",
     "why": "",
     "rank": 0,
-    "group": "mon-14"
+    "group": "mon-14",
+    "category": "event"
   },
   {
     "id": "tue-0-event",
     "day": "tue",
-    "time": "08:00–08:45",
-    "title": "Registrering och kaffe",
-    "place": "Small Atrium",
+    "time": "08:00–14:00",
+    "title": "Registration",
+    "place": "HS Small Atrium GF",
     "why": "",
     "rank": 0,
-    "group": "tue-0"
+    "group": "tue-0",
+    "category": "event"
+  },
+  {
+    "id": "tue-sponsor-exhibition",
+    "day": "tue",
+    "time": "08:00–14:00",
+    "title": "Sponsor Exhibition and All-Day Coffee",
+    "place": "HS Small Atrium GF",
+    "why": "",
+    "rank": 0,
+    "group": "tue-all-day",
+    "category": "event",
+    "source": "Programbild 4/35"
   },
   {
     "id": "tue-1-event",
@@ -327,7 +767,8 @@
     "place": "Chapel",
     "why": "",
     "rank": 0,
-    "group": "tue-1"
+    "group": "tue-1",
+    "category": "event"
   },
   {
     "id": "tue-2-event",
@@ -337,7 +778,8 @@
     "place": "Chapel",
     "why": "",
     "rank": 0,
-    "group": "tue-2"
+    "group": "tue-2",
+    "category": "event"
   },
   {
     "id": "tue-3-0",
@@ -347,7 +789,8 @@
     "place": "HS 0026",
     "why": "AI som stöd för lärande.",
     "rank": 1,
-    "group": "tue-3"
+    "group": "tue-10:10–10:40",
+    "category": "presentation"
   },
   {
     "id": "tue-3-1",
@@ -357,17 +800,43 @@
     "place": "HS 0027",
     "why": "Bedömning av mänskliga kompetenser.",
     "rank": 2,
-    "group": "tue-3"
+    "group": "tue-10:10–10:40",
+    "category": "presentation"
   },
   {
     "id": "tue-3-2",
     "day": "tue",
     "time": "10:10–10:40",
-    "title": "From Manuscripts to Spaceships: Tools to Redesign the Master’s Dissertation and Rethink Ownership in the Age of AI",
+    "title": "From Monastries to Spaceships: Tools to Redesign the Master’s Dissertation and Rethink Ownership in the Age of AI",
     "place": "HS 1033",
     "why": "Självständiga arbeten och examination.",
     "rank": 3,
-    "group": "tue-3"
+    "group": "tue-10:10–10:40",
+    "category": "presentation"
+  },
+  {
+    "id": "tue-there-s-a-bot-for-that-how-building-my-own-gp",
+    "day": "tue",
+    "time": "10:10–10:40",
+    "title": "There's a Bot for That! How Building My Own GPTs Changed My Teaching – and Can Change Yours",
+    "place": "HS 1030",
+    "why": "",
+    "rank": 0,
+    "group": "tue-10:10–10:40",
+    "category": "presentation",
+    "source": "Programbild 36/37"
+  },
+  {
+    "id": "tue-signals-in-the-static-learning-in-the-age-of-",
+    "day": "tue",
+    "time": "10:10–10:40",
+    "title": "Signals in the Static: Learning in the Age of Noise",
+    "place": "HS 2032",
+    "why": "",
+    "rank": 0,
+    "group": "tue-10:10–10:40",
+    "category": "presentation",
+    "source": "Programbild 36/37"
   },
   {
     "id": "tue-4-event",
@@ -377,7 +846,8 @@
     "place": "1034, 1F",
     "why": "",
     "rank": 0,
-    "group": "tue-4"
+    "group": "tue-4",
+    "category": "event"
   },
   {
     "id": "tue-5-0",
@@ -387,7 +857,8 @@
     "place": "HS 2032",
     "why": "Ansvarsfull AI-användning och integritet.",
     "rank": 1,
-    "group": "tue-5"
+    "group": "tue-10:50–11:20",
+    "category": "presentation"
   },
   {
     "id": "tue-5-1",
@@ -397,7 +868,8 @@
     "place": "HS 1027",
     "why": "Kurs- och programutveckling.",
     "rank": 2,
-    "group": "tue-5"
+    "group": "tue-10:50–11:20",
+    "category": "presentation"
   },
   {
     "id": "tue-5-2",
@@ -407,7 +879,44 @@
     "place": "HS 1033",
     "why": "Kreativa läraktiviteter.",
     "rank": 3,
-    "group": "tue-5"
+    "group": "tue-10:50–11:20",
+    "category": "presentation"
+  },
+  {
+    "id": "tue-the-rise-of-the-passive-researcher-designing-a",
+    "day": "tue",
+    "time": "10:50–11:20",
+    "title": "The Rise of the Passive Researcher: Designing AI That Leads Students Back to the Source",
+    "place": "HS 0026",
+    "why": "",
+    "rank": 0,
+    "group": "tue-10:50–11:20",
+    "category": "presentation",
+    "source": "Programbilder 1–55"
+  },
+  {
+    "id": "tue-what-didn-t-work-a-collaborative-troubleshoot-",
+    "day": "tue",
+    "time": "10:50–11:20",
+    "title": "What Didn't Work: A Collaborative Troubleshoot of Staff AI Training",
+    "place": "HS 0027",
+    "why": "",
+    "rank": 0,
+    "group": "tue-10:50–11:20",
+    "category": "presentation",
+    "source": "Programbilder 1–55"
+  },
+  {
+    "id": "tue-cyborg-leadership-applying-a-care-first-framew",
+    "day": "tue",
+    "time": "10:50–11:20",
+    "title": "Cyborg Leadership: Applying a Care-First Framework to AI-Integrated Teams in Higher Ed",
+    "place": "HS 1030",
+    "why": "",
+    "rank": 0,
+    "group": "tue-10:50–11:20",
+    "category": "presentation",
+    "source": "Programbilder 1–55"
   },
   {
     "id": "tue-6-0",
@@ -417,7 +926,8 @@
     "place": "HS 1030",
     "why": "Aktiviteter som synliggör tänkande.",
     "rank": 1,
-    "group": "tue-6"
+    "group": "tue-11:30–12:00",
+    "category": "presentation"
   },
   {
     "id": "tue-6-1",
@@ -427,7 +937,8 @@
     "place": "HS 0026",
     "why": "Pedagogisk AI-design.",
     "rank": 2,
-    "group": "tue-6"
+    "group": "tue-11:30–12:00",
+    "category": "presentation"
   },
   {
     "id": "tue-6-2",
@@ -437,7 +948,44 @@
     "place": "HS 0027",
     "why": "Från idé till praktik.",
     "rank": 3,
-    "group": "tue-6"
+    "group": "tue-11:30–12:00",
+    "category": "presentation"
+  },
+  {
+    "id": "tue-building-ai-literacy-without-building-an-ai-ma",
+    "day": "tue",
+    "time": "11:30–12:00",
+    "title": "Building AI Literacy Without Building an AI Major: A Transdisciplinary Certificate Model for Workforce and Transfer Students",
+    "place": "HS 1027",
+    "why": "",
+    "rank": 0,
+    "group": "tue-11:30–12:00",
+    "category": "presentation",
+    "source": "Programbilder 1–55"
+  },
+  {
+    "id": "tue-becoming-an-augmented-lecturer-co-designing-cu",
+    "day": "tue",
+    "time": "11:30–12:00",
+    "title": "Becoming an Augmented Lecturer: Co-Designing Curriculum with AI",
+    "place": "HS 1033",
+    "why": "",
+    "rank": 0,
+    "group": "tue-11:30–12:00",
+    "category": "presentation",
+    "source": "Programbilder 1–55"
+  },
+  {
+    "id": "tue-whose-world-are-we-seeing-the-silicon-gaze-pla",
+    "day": "tue",
+    "time": "11:30–12:00",
+    "title": "Whose World Are We Seeing? The Silicon Gaze, Planetary Understanding, and Relational Knowing in Teacher Education",
+    "place": "HS 2032",
+    "why": "",
+    "rank": 0,
+    "group": "tue-11:30–12:00",
+    "category": "presentation",
+    "source": "Programbilder 1–55"
   },
   {
     "id": "tue-7-event",
@@ -447,7 +995,8 @@
     "place": "HN Food Court",
     "why": "",
     "rank": 0,
-    "group": "tue-7"
+    "group": "tue-7",
+    "category": "event"
   },
   {
     "id": "tue-8-0",
@@ -457,7 +1006,8 @@
     "place": "HS 1030",
     "why": "Lärandemål med och utan AI.",
     "rank": 1,
-    "group": "tue-8"
+    "group": "tue-13:30–14:00",
+    "category": "presentation"
   },
   {
     "id": "tue-8-1",
@@ -467,7 +1017,8 @@
     "place": "HS 0026",
     "why": "Två konkreta skrivövningar.",
     "rank": 2,
-    "group": "tue-8"
+    "group": "tue-13:30–14:00",
+    "category": "presentation"
   },
   {
     "id": "tue-8-2",
@@ -477,7 +1028,44 @@
     "place": "HS 0027",
     "why": "Kritisk granskning av AI-innehåll.",
     "rank": 3,
-    "group": "tue-8"
+    "group": "tue-13:30–14:00",
+    "category": "presentation"
+  },
+  {
+    "id": "tue-mistakes-were-never-punished-student-experienc",
+    "day": "tue",
+    "time": "13:30–14:00",
+    "title": "Mistakes Were Never Punished: Student Experiences of Positivity Bias in GenAI Voice-Enabled Roleplays",
+    "place": "HS 1027",
+    "why": "",
+    "rank": 0,
+    "group": "tue-13:30–14:00",
+    "category": "presentation",
+    "source": "Programbilder 1–55"
+  },
+  {
+    "id": "tue-enhancing-comprehension-of-theoretical-applica",
+    "day": "tue",
+    "time": "13:30–14:00",
+    "title": "Enhancing Comprehension of Theoretical Application via AI",
+    "place": "HS 1033",
+    "why": "",
+    "rank": 0,
+    "group": "tue-13:30–14:00",
+    "category": "presentation",
+    "source": "Programbilder 1–55"
+  },
+  {
+    "id": "tue-ai-assisted-gamified-learning-in-a-historical-",
+    "day": "tue",
+    "time": "13:30–14:00",
+    "title": "AI-Assisted Gamified Learning in a Historical Museum: A Case Study at the Museum of Military Traditions Targoviste",
+    "place": "HS 2032",
+    "why": "",
+    "rank": 0,
+    "group": "tue-13:30–14:00",
+    "category": "presentation",
+    "source": "Programbilder 1–55"
   },
   {
     "id": "tue-9-0",
@@ -487,7 +1075,8 @@
     "place": "HS 0027",
     "why": "Examination och professionell bedömning.",
     "rank": 1,
-    "group": "tue-9"
+    "group": "tue-14:10–14:40",
+    "category": "presentation"
   },
   {
     "id": "tue-9-1",
@@ -497,7 +1086,8 @@
     "place": "HS 1030",
     "why": "AI som handledare, inte facit.",
     "rank": 2,
-    "group": "tue-9"
+    "group": "tue-14:10–14:40",
+    "category": "presentation"
   },
   {
     "id": "tue-9-2",
@@ -507,7 +1097,44 @@
     "place": "HS 2032",
     "why": "Formativ bedömning i realtid.",
     "rank": 3,
-    "group": "tue-9"
+    "group": "tue-14:10–14:40",
+    "category": "presentation"
+  },
+  {
+    "id": "tue-from-addie-to-ai-a-systematic-approach-to-prom",
+    "day": "tue",
+    "time": "14:10–14:40",
+    "title": "From ADDIE to AI: A Systematic Approach to Prompt Engineering",
+    "place": "HS 0026",
+    "why": "",
+    "rank": 0,
+    "group": "tue-14:10–14:40",
+    "category": "presentation",
+    "source": "Programbilder 1–55"
+  },
+  {
+    "id": "tue-how-much-ai-does-today-s-instructor-need-to-kn",
+    "day": "tue",
+    "time": "14:10–14:40",
+    "title": "How Much AI Does Today's Instructor Need to Know?",
+    "place": "HS 1027",
+    "why": "",
+    "rank": 0,
+    "group": "tue-14:10–14:40",
+    "category": "presentation",
+    "source": "Programbilder 1–55"
+  },
+  {
+    "id": "tue-notebook-lm-the-greatest-educational-disruptor",
+    "day": "tue",
+    "time": "14:10–14:40",
+    "title": "Notebook LM: The Greatest Educational Disruptor Since the Industrial Revolution?",
+    "place": "HS 1033",
+    "why": "",
+    "rank": 0,
+    "group": "tue-14:10–14:40",
+    "category": "presentation",
+    "source": "Programbilder 1–55"
   },
   {
     "id": "tue-10-0",
@@ -517,7 +1144,8 @@
     "place": "HS 1030",
     "why": "Systematisk kollegial kursutveckling.",
     "rank": 1,
-    "group": "tue-10"
+    "group": "tue-14:50–15:20",
+    "category": "presentation"
   },
   {
     "id": "tue-10-1",
@@ -527,7 +1155,8 @@
     "place": "HS 0026",
     "why": "AI-kompetenser och källkritik.",
     "rank": 2,
-    "group": "tue-10"
+    "group": "tue-14:50–15:20",
+    "category": "presentation"
   },
   {
     "id": "tue-10-2",
@@ -537,7 +1166,44 @@
     "place": "HS 1027",
     "why": "Pedagogiskt utformade AI-lärmiljöer.",
     "rank": 3,
-    "group": "tue-10"
+    "group": "tue-14:50–15:20",
+    "category": "presentation"
+  },
+  {
+    "id": "tue-bridging-the-gap-using-student-driven-communit",
+    "day": "tue",
+    "time": "14:50–15:20",
+    "title": "Bridging the Gap: Using Student Driven Communities of Practice to Align Classroom AI Policies with Real-World Industry Realities",
+    "place": "HS 0027",
+    "why": "",
+    "rank": 0,
+    "group": "tue-14:50–15:20",
+    "category": "presentation",
+    "source": "Programbilder 1–55"
+  },
+  {
+    "id": "tue-player-to-student-what-the-games-industry-teac",
+    "day": "tue",
+    "time": "14:50–15:20",
+    "title": "Player to Student: What the Games Industry Teaches Us About AI Transparency in Education",
+    "place": "HS 1033",
+    "why": "",
+    "rank": 0,
+    "group": "tue-14:50–15:20",
+    "category": "presentation",
+    "source": "Programbilder 1–55"
+  },
+  {
+    "id": "tue-every-chart-tells-a-story-a-rhetorical-approac",
+    "day": "tue",
+    "time": "14:50–15:20",
+    "title": "Every Chart Tells a Story: A Rhetorical Approach to Visual Data Storytelling with GenAI",
+    "place": "HS 2032",
+    "why": "",
+    "rank": 0,
+    "group": "tue-14:50–15:20",
+    "category": "presentation",
+    "source": "Programbilder 1–55"
   },
   {
     "id": "tue-11-0",
@@ -547,7 +1213,8 @@
     "place": "HS 0026",
     "why": "Autentisk examination i stället för fuskdetektion.",
     "rank": 1,
-    "group": "tue-11"
+    "group": "tue-15:30–16:00",
+    "category": "presentation"
   },
   {
     "id": "tue-11-1",
@@ -557,7 +1224,8 @@
     "place": "HS 1027",
     "why": "Organisatorisk undervisningsutveckling.",
     "rank": 2,
-    "group": "tue-11"
+    "group": "tue-15:30–16:00",
+    "category": "presentation"
   },
   {
     "id": "tue-11-2",
@@ -567,7 +1235,44 @@
     "place": "HS 2032",
     "why": "Bedömning av AI-stött projektarbete.",
     "rank": 3,
-    "group": "tue-11"
+    "group": "tue-15:30–16:00",
+    "category": "presentation"
+  },
+  {
+    "id": "tue-mapping-your-professional-ecosystem-arts-based",
+    "day": "tue",
+    "time": "15:30–16:00",
+    "title": "Mapping Your Professional Ecosystem: Arts-Based Methods for Locating AI in More-Than-Human Knowledge Networks",
+    "place": "HS 0027",
+    "why": "",
+    "rank": 0,
+    "group": "tue-15:30–16:00",
+    "category": "presentation",
+    "source": "Programbilder 1–55"
+  },
+  {
+    "id": "tue-smarter-training-better-care-ai-tools-for-mode",
+    "day": "tue",
+    "time": "15:30–16:00",
+    "title": "Smarter Training, Better Care: AI Tools for Modern Healthcare Curriculum",
+    "place": "HS 1030",
+    "why": "",
+    "rank": 0,
+    "group": "tue-15:30–16:00",
+    "category": "presentation",
+    "source": "Programbilder 1–55"
+  },
+  {
+    "id": "tue-start-with-people-empowering-learning-designer",
+    "day": "tue",
+    "time": "15:30–16:00",
+    "title": "Start with People: Empowering Learning Designers to Navigate Meaningful AI Integration",
+    "place": "HS 1033",
+    "why": "",
+    "rank": 0,
+    "group": "tue-15:30–16:00",
+    "category": "presentation",
+    "source": "Programbilder 1–55"
   },
   {
     "id": "tue-12-0",
@@ -577,17 +1282,19 @@
     "place": "HS 1033",
     "why": "Arbetsuppgiftsbaserad AI-kompetens för lärare.",
     "rank": 1,
-    "group": "tue-12"
+    "group": "tue-16:10–16:40",
+    "category": "presentation"
   },
   {
     "id": "tue-12-1",
     "day": "tue",
     "time": "16:10–16:40",
-    "title": "Becoming a TRAILblazer: Building a Global Repository for AI Learning",
+    "title": "Becoming a TRAIILblazer: Building a Global Repository for AI Learning",
     "place": "HS 1030",
     "why": "Delbara undervisningsresurser.",
     "rank": 2,
-    "group": "tue-12"
+    "group": "tue-16:10–16:40",
+    "category": "presentation"
   },
   {
     "id": "tue-12-2",
@@ -597,7 +1304,44 @@
     "place": "HS 2032",
     "why": "AI-simulering för kliniskt resonemang.",
     "rank": 3,
-    "group": "tue-12"
+    "group": "tue-16:10–16:40",
+    "category": "presentation"
+  },
+  {
+    "id": "tue-but-i-saw-it-online-so-it-must-be-true-teachin",
+    "day": "tue",
+    "time": "16:10–16:40",
+    "title": "But I Saw it Online So it Must Be True: Teaching Students to Detect Generative AI and Misinformation",
+    "place": "HS 0026",
+    "why": "",
+    "rank": 0,
+    "group": "tue-16:10–16:40",
+    "category": "presentation",
+    "source": "Programbilder 1–55"
+  },
+  {
+    "id": "tue-from-awareness-to-application-a-project-based-",
+    "day": "tue",
+    "time": "16:10–16:40",
+    "title": "From Awareness to Application: A Project-Based AI Literacy Course for Non-Technical Bachelor's Students",
+    "place": "HS 0027",
+    "why": "",
+    "rank": 0,
+    "group": "tue-16:10–16:40",
+    "category": "presentation",
+    "source": "Programbilder 1–55"
+  },
+  {
+    "id": "tue-what-should-students-know-on-how-to-use-ai-def",
+    "day": "tue",
+    "time": "16:10–16:40",
+    "title": "What Should Students Know on How to Use AI? Defining Workforce Competencies Through an AI and Data Analytics Certificate",
+    "place": "HS 1027",
+    "why": "",
+    "rank": 0,
+    "group": "tue-16:10–16:40",
+    "category": "presentation",
+    "source": "Programbilder 1–55"
   },
   {
     "id": "tue-13-event",
@@ -607,6 +1351,7 @@
     "place": "Chapel",
     "why": "",
     "rank": 0,
-    "group": "tue-13"
+    "group": "tue-13",
+    "category": "event"
   }
 ]

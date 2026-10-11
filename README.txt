@@ -1,12 +1,16 @@
-TLWAIEU2026 uppdatering – 11 oktober 2026
+TLWAIEU2026 – programkomplettering, 11 oktober 2026
+===================================================
+Innehåll: index.html, program.json, manifest.webmanifest, icon-192.png, icon-512.png.
 
-1. EXPORTERA FÖRST en komplett backup från nuvarande app (inklusive bilder).
-2. Ladda upp index.html, program.json, manifest.webmanifest och icon-192.png/icon-512.png i samma rotmapp på GitHub-repositoryt DrVonNorth/tlwaieu2026. Behåll samma GitHub Pages-adress.
-3. Vänta på publicering och ladda om sidan. Om appen installerats, stäng och öppna igen.
-4. Dina gamla betyg/anteckningar/bilder använder exakt samma lokala lagringsnycklar och programpunkt-ID. Om något saknas: använd Importera backup.
+Programmet är sammanställt från användarens 55 uppladdade programbilder.
+Det omfattar 118 programposter inklusive 13 individuella posters och gemensamma aktiviteter.
+Programposterna har separata titlar, tider och lokaler. Längre sessioner behåller sina tidsintervall.
+För tidigare poster är ID:n oförändrade så att användarens stjärnor, anteckningar och bilder kan bevaras.
 
-FUNKTIONER: Översikt båda dagarna; 61 programpunkter i tidigare sammanställt underlag; sökning; filtrering; egna 1–3 stjärnor; separata rekommendationer och motiveringar; särskild Mitt bidrag-vy för Assessment Futures in the Age of AI, tisdag 20/10 14:10–14:40 HS 0027; bilder i IndexedDB; komplett backup.
+Rekommenderade val visar bara de tidigare förstahandsvalen (rank=1), inte alla sessioner.
+Övriga presentationer är neutrala utan AI-rekommendation. Egna stjärnor är separata.
+Eget bidrag: Assessment Futures in the Age of AI, tisdag 14:10–14:40, HS 0027.
 
-VIKTIGT: Underlaget innehåller 61 poster, inte verifierat som officiellt heltäckande program. Kontrollera tider och salar mot arrangörens senaste program.
-
-FÄRGTEMA: orange (#f47718), svart (#11100f), varmt vitt (#fff7ef). Behåll alla filnamn. Exportera komplett backup innan uppdatering.
+VIKTIGT: Exportera komplett backup i den befintliga appen före uppladdning.
+Ladda upp webbappsfilerna i samma GitHub Pages-repository och gör Commit changes.
+Uppgifterna baseras på det uppladdade programmet och kan ändras av arrangören.
